@@ -29,8 +29,16 @@ To ensure the integrity of our Intellectual Property while facilitating collabor
 
 The AGE ecosystem is managed via a strict **Traceability Pipeline**:
 
+To maintain the professional and high-security tone we’ve established, here is the completion of your **Repository Structure** in English.
+
+This language is specifically chosen to sound "institutional"—the kind of phrasing that venture capitalists, patent attorneys, and foundry engineers (like those at IMEC) expect to see.
+
 * **`00_GOVERNANCE/`**: Contains the **AGE-LN** (Laboratory Notes) vault, ensuring every architectural decision is timestamped and auditable.
-* **`01_EXECUTIVE_SAFE/`**: Curated materials for stakeholders and institutional evaluators.
+* **`01_EXECUTIVE_SAFE/`**: Curated materials for stakeholders and institutional evaluators (Non-enabling).
+* **`02_TECHNICAL_SAFE/`**: **Technical Abstracts & Architecture.** High-level block diagrams and theoretical bounds accessible under Mutual NDA.
+* **`03_PATENT_PRIVILEGED/`**: **IP Strategy & Filings.** Restricted access for legal counsel and inventors regarding active patent drafts and prior art.
+* **`04_FOUNDRY_PACK/`**: **Fabrication Interface.** Silicon photonics design kits (PDK), mask assumptions, and MPW submission parameters for foundry partners.
+* **`05_TRADE_SECRET/`**: **Proprietary Core.** Highly restricted documentation of undisclosed algorithms and "know-how" not subject to patent filing.
 * **`ZZ_REPOSITORY/`**: The **Single Source of Truth** containing simulation scripts (Python/Jupyter), data outputs, and core implementation code.
 
 ---
